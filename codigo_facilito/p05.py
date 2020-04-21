@@ -1,0 +1,1 @@
+print("La distancia entre Marte y el sol es de 1.5 UA\nUA=unidades astronómicas, que equivale a 150 millones de km\nLa luz viaja a 300000000 m/s\nLa cantidad de segundos son:",150000000*300000000,"s")

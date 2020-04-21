@@ -1,0 +1,1 @@
+print("El número de vueltas son: ",(1000000)/(2*3.1416*(25/100)))
